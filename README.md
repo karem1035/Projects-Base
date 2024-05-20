@@ -11,7 +11,7 @@ Projects
 | 05  |      [Login Modal](https://github.com/karem1035/login-modal)      |                   [Live Demo](https://sage-fox-9bcaaf.netlify.app/)                   |
 | 06  | [Clipboard](https://github.com/karem1035/Clipboard-Landing-Page)  |              [Live Demo](https://jade-bienenstitch-8a4872.netlify.app/)               |
 | 07  |      [Loopstudios](https://github.com/karem1035/Loopstudios)      |             [Live Demo](https://coruscating-axolotl-b0ba36.netlify.app/)              |
-| 08  |          [Shortly](https://github.com/karem1035/Shortly)          |                    [Live Demo](classy-youtiao-51d2b9.netlify.app)                     |
+| 08  |          [Shortly](https://github.com/karem1035/Shortly)          |                [Live Demo](https://classy-youtiao-51d2b9.netlify.app/)                |
 | 09  | [Testimonial Grid](https://github.com/karem1035/Testimonial-Grid) |            [Live Demo](https://magnificent-shortbread-aa774f.netlify.app/)            |
 | 10  |             [Fylo](https://github.com/karem1035/Fylo)             |                [Live Demo](https://cool-beijinho-a21092.netlify.app/)                 |
 | 11  |     [Bookmark](https://github.com/karem1035/Bookmark-Project)     | [Live Demo](https://www.tailwindfromscratch.com/website-projects/bookmark/index.html) |
